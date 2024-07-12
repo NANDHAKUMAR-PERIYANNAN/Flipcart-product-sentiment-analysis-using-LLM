@@ -84,5 +84,4 @@ By the end of this project, the deliverables include:
 
 ---
 
-© 2024 Flipkart Product Review Analysis Project. All rights reserved.
 
